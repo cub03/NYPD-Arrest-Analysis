@@ -34,7 +34,7 @@ The pivot tables provides a breakdown of the large dataset for better analysis a
 Slicers like jurisdiction code, sex, borough were created in order to filter the the chart for the exact information that is needed. 
 
 ## Visualization
-![](nypd_dashboard.png)
+
 
 It comprises of various charts showing:
 1. Top 10 arrests in 2023
