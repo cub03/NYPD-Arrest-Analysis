@@ -56,7 +56,9 @@ The dashboard shows that offenders with age group 25-44 commit most of the offen
  
 ## Recommendation
 I would recommend that there should be more sensitization on the dangers of committing crimes and the consequences.
+
 The Police department need to transfer more polie officers to place that have very high crime rate like Brooklyn, Manhanttan, Bronx and Queens.
+
 The Poilice department can go to schools, colleges and universities to hold seminars on anger management, confliction resolution and communication.
 ## Data Source
 This data was gotten from data.gov
