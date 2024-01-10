@@ -20,8 +20,8 @@ The following Microsoft Excel features that were used are:
 - Pivot tables
 - Pivot chart
 - Formatting
-- Filters
-- Sorting
+- Filtering columns
+- Sorting columns
 - Removing nulls
 - Connecting slicers to charts
 
