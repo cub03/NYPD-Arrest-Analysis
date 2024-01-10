@@ -30,6 +30,9 @@ The following Microsoft Excel features that were used are:
 After cleaning, sorting and filtering the data sets, I created pivots tables to compare patterns and trends in the data. 
 The pivot tables provides a breakdown of the large dataset for better analysis and undesrstanding.
 
+## Slicers
+Slicers like jurisdiction code, sex, borough were created in order to filter the the chart for the exact information that is needed. 
+
 ## Visualization
 ![](nypd_dashboard.png)
 
@@ -43,12 +46,18 @@ It comprises of various charts showing:
 
  ## Analysis
 The visuals show that the second quarter recorded the highest number of arrests followed by the third and first quarter.
-From the charts, it can be concluded that the highest arrest made was in Brookyln with over 46,000 arrests while Staten Island has the least number of arrests. This is mostly because Staten Island is the least populated among the bouroughs in New York city.
-The analaysis depicts the most of the people arrested are blacks with 82,035 arrests followed by the white hispanic. Out of the total number of people arrested, there are 2,481 people whose race is unknown.
+From the charts, it can be concluded that the highest arrest made was in Brookyln with over 46,000 arrests while Staten Island has the least number of arrests. It can be deduced that the reason why the arrests level was low in Staten Island is beacuse it is the least populated among the bouroughs in New York city.
+
+The analysis depicts that most of the people arrested are blacks with 82,035 arrests followed by the white hispanic. Out of the total number of people arrested, there are 2,481 people whose race is unknown.
+
+On the top 10 chart, the number one cause for arrest is assault3 and related  offenses while the least is dangerous weapons comprising of manufacture, transportation, criminal possession and disposal of weapons.
+
+The dashboard shows that offenders with age group 25-44 commit most of the offenses followed by those that are 45-64 years while people that are 65 years and above commit the least offenses.
  
 ## Recommendation
-
-
+I would recommend that there should be more sensitization on the dangers of committing crimes and the consequences.
+The Police department need to transfer more polie officers to place that have very high crime rate like Brooklyn, Manhanttan, Bronx and Queens.
+The Poilice department can go to schools, colleges and universities to hold seminars on anger management, confliction resolution and communication.
 ## Data Source
 This data was gotten from data.gov
 
